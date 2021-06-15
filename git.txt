@@ -1,1 +1,3 @@
 První věta v mastru
+
+Vytvořili jsme naklonovaný soubor a do mastru dali tuto druhou větu
